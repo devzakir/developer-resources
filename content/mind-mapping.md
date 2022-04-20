@@ -1,4 +1,7 @@
 
+---
+title: Mind Mapping
+---
 - https://coggle.it
 - https://gitmind.com
 - https://xmind.works
